@@ -30,7 +30,7 @@
     "@angular/compiler-cli": "~9.1.12",
     "@types/node": "^12.11.1",
     "apply-loader": "^2.0.0",
-    "pug": "^3.0.0",
+    "pug": "^3.0.1",
     "pug-loader": "^2.4.0",
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
